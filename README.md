@@ -31,6 +31,6 @@ I'm a front-end dev 💻, actually I'm in love for any tech... Here u gonna see 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/theusagiya/theusagiya/blob/output/github-contribution-grid-snake.svg)
  
 </div>
