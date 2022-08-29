@@ -36,9 +36,17 @@ I'm a front-end dev 💻, actually I'm in love for any tech... Here u gonna see 
 
   --- 
 
-  
+  <div> 
 
 
+    <div align = "left">
+      <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
+      <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+    </div>
+
+  </div>
+
+  --- 
   ![Snake animation](https://github.com/theusagiya/theusagiya/blob/output/github-contribution-grid-snake.svg)
   
 </div>
