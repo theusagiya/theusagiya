@@ -1,6 +1,6 @@
 <img src = "banner-app.gif" width = "250px" align  = "right"/>
 
-#  💜  Sup?! Nice to see u here! 
+#  💜  Sup?! Nice to see u here! 🤖
 
 <div id="badges">
   <a href = "https://twitter.com/theusagiya"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
