@@ -1,6 +1,6 @@
 <img src = "banner-app.gif" width = "250px" align  = "right"/>
 
-#  💜  Sup?! Nice to see u here!🌚 
+#  💜  Sup?! Nice to see u here! 
 
 <div id="badges">
   <a href = "https://twitter.com/theusagiya"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
@@ -16,7 +16,7 @@ I'm a front-end dev 💻, actually I'm in love for any tech... Here u gonna see 
 
 - ✒ Writer 
 - 🔭 Atronomy fan
-- 👩‍💻 Learning something about back-end
+- 💻 Learning something about back-end
 
 ---
 
@@ -25,7 +25,9 @@ I'm a front-end dev 💻, actually I'm in love for any tech... Here u gonna see 
 
   <div id="badges">
 
-  # Technologies 
+  # 👨‍💻 Technologies 
+    
+ <img src = "coder.gif" width = "250px" align  = "right"/>
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -33,20 +35,14 @@ I'm a front-end dev 💻, actually I'm in love for any tech... Here u gonna see 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </div>
+    
+---
+    
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusagiya&show_icons=true&theme=midnight-purple)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusagiya)](https://github.com/anuraghazra/github-readme-stats)
 
-  --- 
-
-  <div> 
-
-
-    <div align = "left">
-      <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusagiya&show_icons=true&theme=bear&count_private=true"/>
-      <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=theusagiya&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-    </div>
-
-  </div>
-
-  --- 
+---
+    
   ![Snake animation](https://github.com/theusagiya/theusagiya/blob/output/github-contribution-grid-snake.svg)
   
 </div>
