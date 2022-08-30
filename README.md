@@ -38,10 +38,17 @@ I'm a front-end dev 💻, actually I'm in love for any tech... Here u gonna see 
     
 ---
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusagiya&show_icons=true&theme=midnight-purple)
-   <img src = "main.gif" width = "250px" align  = "left"/>
+  <div align = right>
+     <img src = "main.gif" width = "220px" align  = "left" />
+  <!-- Dark Mode -->
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=theusagiya&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Usagi's Github stats" />
+  </a>
+  </div>
+
   
----
+---   
+    
     
   ![Snake animation](https://github.com/theusagiya/theusagiya/blob/output/github-contribution-grid-snake.svg)
   
